@@ -1,0 +1,16 @@
+.Number {
+    display: inline-block;
+    border: 3px solid #888888;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 20px;
+    color: #6b6969;
+}
+button {
+    display: block;
+    margin: 20px 315px;
+    box-shadow: 5px 8px #888888;
+    padding: 10px 30px;
+}
